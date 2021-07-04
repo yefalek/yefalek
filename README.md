@@ -9,8 +9,6 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning Full-stack Developer profession.
 - 🤔 I’m looking for help with finding more time in a single day.
 - 📫 How to reach me: yefremenkov.alek@gmail.com
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...fact is fun
 
 
 ### My stack and tools
