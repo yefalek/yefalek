@@ -1,4 +1,4 @@
-### Hi there, I'm Alexander 👋
+### Hi there, I'm Aleksandr 👋
 
 Email: yefremenkov.alek@gmail.com
 
